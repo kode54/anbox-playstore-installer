@@ -24,7 +24,7 @@
 # die when an error occurs
 set -e
 
-OPENGAPPS_RELEASEDATE="20180706"
+OPENGAPPS_RELEASEDATE="20180818"
 OPENGAPPS_FILE="open_gapps-x86_64-7.1-mini-$OPENGAPPS_RELEASEDATE.zip"
 OPENGAPPS_URL="https://github.com/opengapps/x86_64/releases/download/$OPENGAPPS_RELEASEDATE/$OPENGAPPS_FILE"
 
